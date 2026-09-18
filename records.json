@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Jane Doe",
+        "age": 29,
+        "department": "Sales",
+        "email": "jane@example.com",
+        "phone": "0987654321"
+    },
+    {
+        "id": 2,
+        "name": "Alex Martin",
+        "age": 34,
+        "department": "Engineering",
+        "email": "alex.martin@company.com",
+        "phone": "9876543210"
+    },
+    {
+        "id": 3,
+        "name": "Priya Nair",
+        "age": 27,
+        "department": "HR",
+        "email": "priya.nair@company.com",
+        "phone": "9123456780"
+    },
+    {
+        "id": 4,
+        "name": "Daniel James",
+        "age": 41,
+        "department": "Finance",
+        "email": "daniel.james@company.com",
+        "phone": "9988776655"
+    }
+]
