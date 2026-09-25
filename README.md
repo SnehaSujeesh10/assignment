@@ -1,4 +1,5 @@
-# cosoleSeha
+# assignment
+
 
 A simple and friendly employee management system built in Python. It helps you add, view, search, update, and delete employee records from a terminal menu while saving everything locally in a JSON file.
 
