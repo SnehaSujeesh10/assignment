@@ -51,5 +51,3 @@ ID    | Name          | Age | Department | Email                    | Phone
 - `records.json` — employee storage
 - `README.md` — project documentation
 
-## Notes
-This project is lightweight, beginner-friendly, and useful for understanding basic CRUD operations in Python.
